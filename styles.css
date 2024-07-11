@@ -1,0 +1,29 @@
+body {
+  padding-top: 20px;
+}
+
+.menu-tile {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 10px 0;
+  text-align: center;
+  transition: background-color 0.3s;
+}
+
+.menu-tile:hover {
+  background-color: #f8f8f8;
+  cursor: pointer;
+}
+
+.text-center {
+  text-align: center;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 28px;
+}
